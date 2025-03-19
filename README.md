@@ -1,6 +1,8 @@
 # Excitons in layered perovskite solar cells - suplementary code
 ## BCN: HYOCP
 
+Supervisor: Dr. Joshua Thompsom
+
 Code associated with the production of the written assignment submitted to the MPhil in Scientific Computing at the Univeristy of Cambridge, Cavendish laboratory.
 
 Simulations performed to solve the Wannier equation numerically to produce binding energies and eigenvectors of excitons in Bis(phenylethylammonium) lead iodide perovskite crystals.
